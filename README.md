@@ -1,1 +1,1 @@
-# rcis18-petstore-dcp
+# RCIS18-PETSTORE-DCP
