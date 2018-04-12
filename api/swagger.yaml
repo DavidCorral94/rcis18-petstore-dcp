@@ -13,9 +13,9 @@ info:
   license:
     name: "MIT"
     url: "http://opensource.org/licenses/MIT"
-host: "localhost:8080"
+host: "rcis18-petstore-dcp.herokuapp.com"
 schemes:
-- "http"
+- "https"
 consumes:
 - "application/json"
 produces:
