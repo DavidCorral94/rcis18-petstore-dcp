@@ -18,7 +18,7 @@ app.options("/*", (req, res, next) => {
 });
 
 app.get('/about', function(req, res) {
-    res.redirect("https://pafmon.github.io/rcis-test/");
+    res.redirect("https://davidcorral94.github.io/rcis18-petstore-dcp/");
 });
 
 // swaggerRouter configuration
